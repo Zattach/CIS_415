@@ -1,0 +1,7 @@
+My tldmap compiles but does not run correctly.
+I kept running into allocation issues and Seg Faults.
+I decided I had put in enough time to consider turning it in.
+For Project1 I will start it earlier as Prof. Sventek recommended.
+I will practice with gdb and valgrind to figure out where my errors are coming from.
+I will practice malloc() and free() throughout this course to make sure I have a very good understanding of them. 
+Overall I feel that I really need to work on my programming practices and start earlier.

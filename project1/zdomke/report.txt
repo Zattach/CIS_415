@@ -1,0 +1,8 @@
+My uspsv1 compiles without any warnings and it does not fork bomb.
+While my program looks like it should work, I am sure it runs incorrectly.
+I did not work on uspsv2, uspsv3, or uspsv4.
+I was unable to finish the first part so I could not move on to the last three.
+I decided to focus on studying for the midterm the last week of the project.
+On the next project and the extra credit I will start earlier.
+Throughout this course I will need to start on my projects earlier.
+I also need to get more practice with gdb and valgrind.

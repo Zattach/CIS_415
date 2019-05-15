@@ -1,0 +1,13 @@
+This is my extra credit project. In this project I was able to translate most of the
+
+given python code into c. However, I did get stuck and I gave in. I can tell that my error 
+
+comes up in my version of process where I determine if the current string has already been
+
+printed. This results in a seg fault. After spending much time on this project, I decided
+
+studying for the final might be more productive for me. Not to mention the other finals
+
+and midterms I had going on at the time. I know that you said you will not grade anything
+
+that won't run, but I feel like I should at least turn in what I have completed.

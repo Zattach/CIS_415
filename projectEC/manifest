@@ -1,0 +1,15 @@
+report.txt
+Makefile
+include_crawler.c
+iterator.c
+iterator.h
+tsiterator.c
+tsiterator.h
+linkedlist.c
+linkedlist.h
+tslinkedlist.c
+tslinkedlist.h
+hashmap.c
+hashmap.h
+tshashmap.c
+tshashmap.h
